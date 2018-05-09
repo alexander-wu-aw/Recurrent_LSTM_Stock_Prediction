@@ -1,5 +1,5 @@
 # Recurrent_LSTM_Stock_Prediction
-Using the daily opening prices of GOOGL for the past 5 years, the RNN would predict the next day's opening price
+Using the past month of daily opening prices for GOOGL, the RNN would predict the next day's opening price
 
 A dataset was obtained of GOOGL price data from 2012 to 2017. This price data included the Open, High, Low, Close price as well as the Volume. However, for the RNN, I only used the Opening prices. I split the 2012 to 2016 data into training and the first month of 2017 as the test set. 
 
