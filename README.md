@@ -8,3 +8,6 @@ The RNN was built using Keras, and included 4 hidden layers with 50 LSTMs in eac
 Every prediction was made using the past 2 months of daily opening prices.
 
 The predicted and actual results were then graphed.
+
+Being etremely passionate about deep learning and aritifical intelligence, time sensitive neural networks have always fascinated me. This project was built to practice my application of AI. I created this project with the help of the Deep Learning A-Z Udemy course.
+
